@@ -19,7 +19,7 @@ Design.
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vue,react,ts,nodejs,nestjs,docker,postgres,figma,postman,javascript" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vue,react,ts,js,nodejs,nestjs,docker,postgres,figma,postman" alt="Tech stack icons" />
 </p>
 
 <p align="left">
