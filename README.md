@@ -6,8 +6,6 @@ Frontend developer focused on Vue/React and TypeScript ecosystems, with experien
 leading frontend teams and building scalable applications using Feature-Sliced
 Design.
 
-Currently building a Learning Management System at Brusnika.
-
 <p align="left">
   <a href="mailto:anastasion0107@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
