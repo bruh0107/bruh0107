@@ -21,28 +21,26 @@ Currently building a Learning Management System at Brusnika.
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,react,typescript,zustand,pinia,pinia colada,tanstack query,websocket,node.js,docker,postgres,three.js" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=vue,react,ts,nodejs,nestjs,docker,postgres,figma,postman" alt="Tech stack icons" />
+</p>
+
+<p align="left">
+  <b>Также:</b> Pinia, Pinia Colada, Zustand, TanStack Query, WebSocket, Three.js
 </p>
 
 ---
 
 ## Professional Experience
 
-- **Freelance Fullstack Developer** *(2025)* — **Stack:** React, Nest.js, TypeScript, Ant Design, React PDF
-  Developed a regional education portal with document management functionality.
+- **Frontend Developer** @ ООО "Программные решения для бизнеса" — *WDDD* *(Sep 2025 – Jul 2026)* — **Stack:** Vue 3, TypeScript, Pinia, TanStack Query
 
-- **Fullstack Developer** @ [Iceberg](https://iceberg.su) *(2025)* — **Stack:** Nuxt 3, TypeScript
-  Implemented server-side rendering to improve SEO and page load performance.
+- **Frontend Developer** @ ООО "Программные решения для бизнеса" — *Taskie* *(May 2025 – Aug 2025)* — **Stack:** Vue 3, TypeScript, Pinia
 
-- **Frontend Developer** @ [Hamumaby](https://hamumaby.ru) *(2025)* — **Stack:** Vue 3, Tailwind
-  Built responsive interfaces from UI/UX designs across devices.
+- **Frontend Developer** @ ООО "Программные решения для бизнеса" — *Я хочу помочь* *(Jan 2025 – May 2025)* — **Stack:** Vue 3, TypeScript, Pinia
 
-- **Frontend Developer** @ [Lytko](https://lytko.com) *(2024–2025)* — **Stack:** Vue 3, SCSS, WebSockets
-  Built a real-time application for hardware controller management over WebSockets.
+- **Frontend Developer** @ Фриланс — *hamumaby* *(Apr 2025)* — **Stack:** Vue 3, Tailwind
 
-- **Frontend Developer** @ [Contractis](https://contractis.ru) *(2024)* — **Stack:** Nuxt 3, TypeScript, SCSS
-
-- **Frontend Developer** @ [Profteam](https://profteam.su) *(2022-2023)* — **Stack:** Vue 3, Tailwind, Pinia
+- **Frontend Developer** @ ООО "Программные решения для бизнеса" — *Profteam* *(Jun 2023 – Oct 2023)* — **Stack:** Vue 3, Tailwind, Pinia
 
 ---
 
